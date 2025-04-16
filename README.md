@@ -2,7 +2,7 @@
 <h3 align="center">Santri & Software Engineer di Pondok Pesantren Al-Ma'ruf Bandungsari</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </p>
 
 ---
