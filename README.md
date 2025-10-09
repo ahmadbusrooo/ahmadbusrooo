@@ -1,23 +1,6 @@
 <h1 align="center">👋 Halo, Saya Ahmad Busro</h1>
-<h3 align="center">Santri & Software Engineer di Pondok Pesantren Al-Ma'ruf Bandungsari</h3>
 
-<p align="center">
-  <img src="https://github.com/ahmadbusrooo/ahmadbusrooo/blob/main/Untitled-1-01.png" />
-</p>
-
----
-
-### ✨ Tentang Saya
-
-🌾 Anak seorang petani yang ingin mengubah nasib keluarga lewat pendidikan dan teknologi.  
-🚀 Saat ini sedang mengembangkan sistem informasi santri berbasis CodeIgniter, Flutter, dan Firebase.  
-🔍 Tertarik dalam pengembangan aplikasi edukatif, automasi pondok, dan integrasi payment gateway.  
-📱 Sedang belajar lebih dalam tentang Laravel, Docker, dan teknologi backend.  
-💡 Motto hidup: *“Ngoding dulu, jagonya belakangan!”*
-
----
-
-### 🧰 Teknologi yang Saya Gunakan
+### Lambo seratus aja
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -31,32 +14,6 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
-
----
-
-### 📌 Proyek Terbaru
-
-- 🎓 **SIPPAM (Sistem Informasi Pengelolaan Pondok Al-Ma'ruf)**  
-  🔗 Sistem terpadu untuk manajemen santri, pembayaran, pelanggaran, dan jadwal belajar.
-  
-- 📱 **Aplikasi Walisantri Flutter**  
-  🔔 Notifikasi pembayaran & pengingat melalui Firebase Cloud Messaging (FCM).  
-  ✨ Terintegrasi dengan backend CodeIgniter via REST API.
-
-- 💳 **Midtrans Payment Gateway Integration**  
-  🔐 Untuk transaksi digital yang aman dan real-time bagi walisantri.
-
----
-
-### 📬 Hubungi Saya
-
-<p align="center">
-  <a href="mailto:busromuz200206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/ahmad_busrooo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://youtube.com/@ahmad_busrooo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
----
 
 <p align="center">
   <i>“Bukan siapa kamu sekarang, tapi siapa yang kamu perjuangkan untuk jadi.”</i><br/>
