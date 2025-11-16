@@ -16,6 +16,6 @@
 </p>
 
 <p align="center">
-  <i>“Bukan siapa kamu sekarang, tapi siapa yang kamu perjuangkan untuk jadi.”</i><br/>
+  <i>“Aslinya sering ngoding tapi mamlas commit”</i><br/>
   <b>~ Ahmad Busro</b>
 </p>
