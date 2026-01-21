@@ -1,8 +1,8 @@
-<h1 align="center">👋 Halo, Saya Ahmad Busro</h1>
+<h1 align="left">👋 Halo, Saya Ahmad Busro</h1>
 
 ### Lambo lu warna apa bos?
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=codeigniter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
+<p align="left">
   <i>“Aslinya sering ngoding”</i><br/>
 </p>
