@@ -1,6 +1,6 @@
 <h1 align="center">👋 Halo, Saya Ahmad Busro</h1>
 
-### Lambo seratus aja
+### Lambo lu warna apa bos?
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -16,6 +16,5 @@
 </p>
 
 <p align="center">
-  <i>“Aslinya sering ngoding tapi mamlas commit”</i><br/>
-  <b>~ Ahmad Busro</b>
+  <i>“Aslinya sering ngoding”</i><br/>
 </p>
